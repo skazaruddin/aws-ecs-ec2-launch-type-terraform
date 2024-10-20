@@ -11,3 +11,7 @@ target
 .cdk.staging
 cdk.out
 
+.terraform
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+tfmyplan
